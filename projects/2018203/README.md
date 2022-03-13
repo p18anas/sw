@@ -9,7 +9,7 @@
 | 1 | <li><a herf="#Εισαγωγή"></span><span class="toctext">Εισαγωγή</span></a> |[Discussions](https://github.com/courses-ionio/help/discussions/104) | |
 | 2 | <li><a herf="#Βιογραφικό"></span><span class="toctext">Βιογραφικό</span></a> | [Discussions](https://github.com/courses-ionio/help/discussions/246) | |
 | 3 | <li><a herf="#Αίτημα ενσωμάτωσης στην ιστοσελίδα"></span><span class="toctext">Αίτημα ενσωμάτωσης στην ιστοσελίδα</span></a> | | |
-| 4 | <li><a herf="#Άσκηση γραμμής εντολών"></span><span class="toctext">Άσκηση γραμμής εντολών</span></a> | | |
+| 4 | <li><a herf="#Άσκηση γραμμής εντολών"></span><span class="toctext">Άσκηση γραμμής εντολών</span></a> | [Discussions](https://github.com/courses-ionio/help/discussions/370) | |
 | 5 | <li><a herf="#Συμμετοχικό περιεχόμενο A1+A2"></span><span class="toctext">Συμμετοχικό περιεχόμενο A1+A2</span></a> | | |
 | 6 | Άσκηση γραμμής εντολών | | |
 | 7 | βιογραφικό | | |
