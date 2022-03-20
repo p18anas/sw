@@ -3,7 +3,6 @@
 #### ΑΜ: Π2018203
 ##### Github profile: https://github.com/p18anas
 
-
 | Εβδομάδα | [Όλα τα παραδοτέα βρίσκονται στην ίδια σελίδα της τελικής αναφοράς](https://courses-ionio.github.io/help/deliverables/) με τα προσωπικά στοιχεία σας (Όνομα, ΑΜ, github profile) και μαζί με αυτόν εδώ τον πίνακα περιεχομένων | Σύνδεσμος στην [εβδομαδιαία παρουσίαση προόδου στις συζητήσεις](https://github.com/courses-ionio/help/discussions/categories/show-and-tell) | Αυτοαξιολόγηση σύμφωνα με τα κριτήρια της αντίστοιχης άσκησης |
 | --- | --- | --- | --- |
 | 1 | <li><a herf="#Εισαγωγή"></span><span class="toctext">Εισαγωγή</span></a> |[Discussions](https://github.com/courses-ionio/help/discussions/104) | |
@@ -41,3 +40,17 @@
 Στη δεύτερη άσκηση γραμμής εντολών ζητήθηκε να δείξουμε την πρόγνωση καιρού για την πόλη μας και μια ακόμη πόλη στην οποία θα θέλαμε να ταξιδέψουμε. Χρησιμοποίησα την εντολή <kbd>curl wttr.on/city<kbd> .
 
 [asciinema](https://asciinema.org/a/476444)
+
+# Συμμετοχικό περιεχόμενο 1
+
+Για το συμμετοχικό Α1 + Α2 επέλεξα να ασχοληθώ με τα λειτουργικά συστήματα Windows11 και NetBSD.
+  
+  | | Responsitory | Netlify | 
+  | --- | --- | --- |
+  | Windows11 | [full image](https://github.com/p18anas/images/blob/2018203/Windows11.jpg) , [thumbnail image](https://github.com/p18anas/images/blob/2018203/Windows11-thumbnail.jpg) , [gallery](https://github.com/p18anas/_gallery/blob/2018203/Windows11.md) |  |
+  | Netbsd | [full image](https://github.com/p18anas/images/blob/2018203/Netbsd.png) , [thumbnail image](https://github.com/p18anas/images/blob/2018203/Netbsd-thumbnail.png) , [gallery](https://github.com/p18anas/_gallery/blob/2018203/netbsd.md) |  |
+  
+  [Διαφάνεια]
+  [Χρονολόγιο]
+  
+  
